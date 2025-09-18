@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "frontend1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,11 +11,8 @@
   },
   "dependencies": {
     "chart.js": "^4.5.0",
-    "papaparse": "^5.5.3",
     "react": "^19.1.1",
-    "react-chartjs-2": "^5.3.0",
-    "react-dom": "^19.1.1",
-    "react-router-dom": "^7.9.1"
+    "react-dom": "^19.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.35.0",
